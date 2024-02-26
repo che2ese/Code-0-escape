@@ -1,5 +1,8 @@
-# code:0:escape
-
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=code:0:escape&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+<div>
+  
 ### 코딩 과제를 하다가 원인 모를 에러가 나서 컴퓨터 세상 속으로 빨려 들어가 버렸다!
 ### 컴퓨터 세상 속에서 한 줄기의 희망은 빨려 들어감과 동시에 주머니 속에 있었던 ‘코딩건’
 ### 코딩건을 활용하여 컴퓨터 세상의 문제를 해결하고 탈출해 과제를 제출해야만 한다!
